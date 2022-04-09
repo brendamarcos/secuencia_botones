@@ -1,0 +1,11 @@
+
+1  git init
+2  git add .
+3  git commit -m "First Project"
+4  git branch -M master 
+5  got branch -M main
+6  git branch -M main
+7  git remote add origin https://github.com/brendamarcos/secuencia_botones.git
+8  git push origin master
+9  git push origin main 
+10  history > history.txt
